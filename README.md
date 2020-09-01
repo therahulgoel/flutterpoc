@@ -1,16 +1,13 @@
 # flutter_app_poc
 
-A new Flutter application.
+Repository for proof of concept for various concepts in Flutter app development using Dart Programming Language.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Useful reference links to follow 
+1. Package Repo for Dart and Flutter : https://pub.dev
+2. Dart Programming Language : https://dart.dev
+3. Flutter Arch Overview : https://flutter.dev/docs/resources/architectural-overview  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Follow Me on Medium 
+https://medium.com/@therahulgoel
